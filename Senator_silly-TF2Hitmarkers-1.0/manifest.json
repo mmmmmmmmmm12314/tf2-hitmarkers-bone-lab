@@ -1,0 +1,9 @@
+{
+    "name": "TF2_Hitmarkers",
+    "version_number": "1.0.0",
+    "website_url": "https://github.com/mmmmmmmmmm12314",
+    "description": "this is my first mod",
+    "dependencies": [
+        "NotEnoughPhotons-Hitmarkers-2.8.3"
+    ]
+}
